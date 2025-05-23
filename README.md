@@ -7,7 +7,7 @@ A powerful command-line interface tool for generating Node.js Express API templa
 Install the CLI globally using npm:
 
 ```bash
-npm install -g node-express-backend-cli
+npm install -g express-backend-cli
 ```
 
 ## 📋 Usage
@@ -169,10 +169,10 @@ To contribute to this CLI tool:
 
 ```bash
 # Clone the repository
-git clone https://github.com/infinite-null/node-express-backend-cli.git
+git clone https://github.com/infinite-null/express-backend-cli.git
 
 # Install dependencies
-cd node-express-backend-cli
+cd express-backend-cli
 npm install
 
 # Link for local development

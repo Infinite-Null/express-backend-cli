@@ -7,7 +7,7 @@ This guide will help you set up and publish your CLI tool to npm.
 Create the following directory structure for your CLI project:
 
 ```
-node-express-backend-cli/
+express-backend-cli/
 ├── bin/
 │   └── cli.js              # Main CLI executable
 ├── lib/
@@ -25,8 +25,8 @@ node-express-backend-cli/
 ### 1. Initialize the Project
 
 ```bash
-mkdir node-express-backend-cli
-cd node-express-backend-cli
+mkdir express-backend-cli
+cd express-backend-cli
 npm init -y
 ```
 

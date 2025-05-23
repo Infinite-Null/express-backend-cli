@@ -29,7 +29,7 @@ echo "✅ npm $(npm -v) detected"
 
 # Install the CLI globally
 echo "📦 Installing create-node-api globally..."
-npm install -g node-express-backend-cli
+npm install -g express-backend-cli
 
 # Check if installation was successful
 if command -v create-node-api &> /dev/null; then
@@ -42,5 +42,5 @@ if command -v create-node-api &> /dev/null; then
     echo "   create-node-api --help"
 else
     echo "❌ Installation failed. Please try manual installation:"
-    echo "   npm install -g node-express-backend-cli"
+    echo "   npm install -g express-backend-cli"
 fi
