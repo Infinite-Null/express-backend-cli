@@ -169,7 +169,7 @@ To contribute to this CLI tool:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/node-express-backend-cli.git
+git clone https://github.com/infinite-null/node-express-backend-cli.git
 
 # Install dependencies
 cd node-express-backend-cli

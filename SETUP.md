@@ -90,11 +90,11 @@ Edit your `package.json`:
   "author": "Your Name <your.email@example.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/your-cli-repo.git"
+    "url": "https://github.com/infinite-null/your-cli-repo.git"
   },
-  "homepage": "https://github.com/yourusername/your-cli-repo#readme",
+  "homepage": "https://github.com/infinite-null/your-cli-repo#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/your-cli-repo/issues"
+    "url": "https://github.com/infinite-null/your-cli-repo/issues"
   }
 }
 ```
