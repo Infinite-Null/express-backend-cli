@@ -2,14 +2,6 @@
 
 A powerful command-line interface tool for generating Node.js Express API templates with customizable features. This CLI helps you quickly scaffold a professional Node.js API project with best practices and commonly used middleware.
 
-## 🚀 Installation
-
-Install the CLI globally using npm:
-
-```bash
-npm install -g express-backend-cli
-```
-
 ## 📋 Usage
 
 Generate a new Node.js Express API project:
