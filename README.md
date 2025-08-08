@@ -15,7 +15,7 @@ npm install -g express-backend-cli
 Generate a new Node.js Express API project:
 
 ```bash
-create-node-api [project-name]
+npx express-backend-cli [project-name]
 ```
 
 If you don't provide a project name, the CLI will prompt you for one.
